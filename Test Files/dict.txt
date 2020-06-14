@@ -1,0 +1,1102 @@
+eggdye;Easter Egg Dyeing Kit!
+mchoc;Mystery Chocolate Egg!
+easterwing;Fresh Air of Spring
+farmanimal;Farmers Egg
+eastercandy;Easter Candy
+easterdiggersby;Diggersby Easter Basket
+easterlopunny;Lopunny Easter Basket
+easterwhismur;Whismur Easter Basket
+easterspinda;Spinda Easter Basket
+easterazumarill;Azumarill Easter Basket
+hiddenegg;Easter Egg
+FathersLottoJoke;Father's Lottery Ticket
+FathersCoin;Father's Magic Coin
+FathersHotRod;Dad's Hot Rod!
+FathersSpeech;Dad's Words of Wisdom
+AxeLegend;Legendary Axe
+ShovelLegend;Legendary Shovel
+PickLegend;Legendary Shovel
+FathersDay2018;Father's Day
+moneyboxfday;Dad's Dumbbells
+fday2019;Dad's Secret Stash!
+missingdad;Where did Dad go?
+HalloweenPack;Happy Halloween
+cadetbadge;Cadet Badge
+thomasapology;Thomas' Apology
+trooperbadge;Trooper Badge
+halloweenpail;Halloween Candy Pail
+halloweencauldron;Trick-or-Treat
+halloweenchocolate;Assorted Chocolate Bars
+halloweenfossil;Skeleton Bones
+halloweenghost;Ghost of the Past
+halloweenwitch;Witch's Broom
+halloweenremains;Ghostly Remains
+halloweenhaunteditems;Haunted Items Pack
+halloweengreatpumpkin;Spirit of the Great Pumpkin
+halloweensong;Halloween Tune
+halloweenshiny;Death's Shiny Claw
+halloweenwin;Halloween Quest Completion
+reliccrown;Relic Crown
+halloweenshiny2019;Death's Shiny Claw
+halloweengreatpumpkin2019;Spirit of the Great Pumpkin
+halloweenchocolate2019;Assorted Chocolate Bars
+halloweenghost2019;Ghost of the Past
+halloweenpail2019;Candy Pail!
+halloweenpillowcase2019;Pillow Case!
+halloweencart2019;Candy Cart!
+pheromosahallow2019;Miss Buggum's Riddle Clue
+pumpkaboohallow2019;Pumpkaboo's Riddle Clue
+excadrillhallow2019;Excadrill's Riddle Clue
+munchlaxhallow2019;Munchlax's Riddle Clue
+beheeyemhallow2019;Beheeyem's Riddle Clue
+yamaskhallow2019;Yamask's Gold
+endhallow2019;Halloween 2019 Completion Reward
+halloweenthanks2019;Halloween 2019 Thank you!
+j4gift2018;4th of Juy's Rocket!
+goldlotto;Gold Flake
+moneyboxlotto;Old Coin
+moneybox2lotto;Old Coin!
+moneybox25lotto;Old Coin!!
+moneybox3lotto;Old Coin!!!
+moneybox4lotto;Treasure Chest
+egblotto;Blizz's Egg Beater
+malelotto;Gender Converter
+femalelotto;Gender Converter
+breederlotto;Advanced Breeder
+ranchpacklotto;Ranch Pack
+sizeelotto;Size Converter
+sizeplotto;Size Converter
+sizeglotto;Size Converter
+sizemlotto;Size Converter
+sizerlotto;Random Size Converter
+RandNaturelotto;Nature Randomizer
+ballconvlotto;Ball Converter
+tmranlotto;Tm-0 Random
+evolotto;Evolution Stone
+megastoneslotto;Random Mega Stone
+NHitemslotto;Held Item Pack
+mgiftlotto;Mystery Gift
+candylotto;Rare Candy Ticket!
+candy2lotto;Rare Candy Box!
+candy3lotto;King's Candy!
+xpboxlotto;EXP Bottle!
+megabosspartylotto;Mega Boss Party!
+abilityhalotto;Ability Seeker
+shinylotto;Pixelmon Essence
+rdmshiny2lotto;Random Shiny
+rdmshiny3lotto;Random Shiny!
+rdmshiny4lotto;Random Shiny!!
+rdmshiny5lotto;Random Shiny!!!
+randultralotto;Random Ultra Vitamin
+ivattack2lotto;Unstable Attack IV Vitamin
+ivdefence2lotto;Unstable Defense IV Vitamin
+ivspecialattack2lotto;Unstable Special Attack IV Vitamin
+ivspecialdefence2lotto;Unstable Special Defense IV Vitamin
+ivhp2lotto;Unstable HP IV Vitamin
+ivspeed2lotto;Unstable Speed IV Vitamin
+mysteryvitaminlotto;Extreme Mystery Vitamin
+ranshrinelotto;Random Shrine!
+randomlegendlotto;Random Legendary!
+timespacelotto;Time Space Altar
+moneyboxmday;Saved Allowance
+mday2019;Mom's Box of Goodies!
+stocking;Stocking
+stp2020potofgold;Pot O' Gold
+stp2020potofgold2;Pot O' Gold
+stp2020potofgold3;Pot O' Gold
+stp2020potofgold4;Pot O' Gold
+stp2020potofgold5;Pot O' Gold
+stp2020luckycharms;Magical Lucky Charms
+stp2020anvil;St. Patrick's Anvil
+stp2020battles;Wealth Guardian Reward
+stp2020end;Leprechaun's Luck
+Tourneypack2019;RC Tournament Gift!
+moneyboxstpatrick;Pot of Gold!
+stpatricksday2019;RC St Patrick's Day Box
+J4SandCastle;Sand Castle Remains!
+J4BeachBag;Beach Bag!
+J4BeachBall;Beach Ball!
+J4IceCream;Summer Ice Cream!
+J4FireflyJar;Fire Fly Jar!
+J4BeachTowel;Beach Towel!
+J4SummerTrip;Summer Trip Sweepstakes!
+J4SummerWorkout;Summer Workout Routine!
+J4Fireworks;Summer Fireworks!
+J4Declaration;Declaration of Independence!
+J4Plymouth;Plymouth Rock Fragment!
+J4LibertyBell;Liberty Bell!
+J4lemonade;Lemonade Stand!
+J4Rcrate10;Summer RCrate!
+J4Rcrate50;Pristine Summer RCrate!
+J4Rcrate100;Perfect Summer RCrate!
+J4ModGift;We Love Our Mods!
+cratersewer;Strange Mechanical Device!
+randwarp;?????!
+gengift;Genesects Loot!
+cratersabrina;Crater Debris!
+shipteleport;Strange device
+granbull;Granbull's Tooth
+clefable;Clefable's Balloon
+hoppip;Hoppip's Favourite Spice
+breloom;Breloom's Goggles
+genesect;Genesect's Drive
+deoxys;Deoxys's Meteorite
+summermissionlilypad;Lily Pad Mission Reward
+summermissionoaksapling;Oak Sapling Mission Reward
+summermissionallium;Allium Mission Reward
+summermissioncarrot;Carrot Mission Reward
+summermissionwheat;Wheat Mission Reward
+summermissionsugarcane;Sugarcane Mission Reward
+summermissioncoba;Coba Berry Mission Reward
+summermissionkebia;Kebia Berry Mission Reward
+summermissionwacan;Wacan Berry Mission Reward
+summermissionwatercrystal;Waterium Z-Crystal Mission Reward
+summermissioninsectplate;Insect Plate Mission Reward
+summermissionfiregem;Fire Gem Mission Reward
+summermissionsunnyday;TM11: Sunny Day Mission Mission Reward
+summermissionraindance;TM18: Rain Dance Mission Reward
+summermissionstrugglebug;TM76: Struggle Bug Mission Reward
+summermissionrainbowbadge;Rainbow Badge Mission Reward
+summermissionvolcanobadge;Volcano Badge Mission Reward
+summermissionhivebadge;Hive Badge Mission Reward
+summermissionstick;Stick Mission Reward
+summermissionmoss;Luminous Moss Reward
+summermissionbrightpowder;Bright Poweder Reward
+summermissionrepel;Repel Reward
+summermissionslimeblock;Slime Block Reward
+summermissiongreentank;Green Tank Reward
+summermissionfieryshrine;Fiery Shrine Reward
+summermissionredorb;Red Orb Reward
+summermissionredchain;Red Chain Reward
+thankcedarboon;Leftover Meteor Fragments
+thankclarence;Clarence's Appreciation Gift
+thanknursejoy;Pokemon Treats
+thankofficerjen;Honorary Police Badge
+thanklottoguru;Lucky Lotto Bundle
+thankoak;Prof. Oak's Gift
+wishbone2019;The Wishbone!
+thanksgivingdirt2019;Thanksgiving Dirt Reward
+thanksgivingmossycobble2019;Thanksgiving Moss Stone Reward
+thanksgivingleaves2019;Thanksgiving Leaves Reward
+thanksgivingpoppy2019;Thanksgiving Poppy Reward
+thanksgivingoranberry2019;Thanksgiving Oran Berry Reward
+thanksgivingdandelion2019;Thanksgiving Dandelion Reward
+thanksgivingironore2019;Thanksgiving Iron Ore Reward
+thanksgivingcoalore2019;Thanksgiving Coal Ore Reward
+thanksgivingcrystalblock2019;Thanksgiving Crystal Block Reward
+thanksgivingrubyblock2019;Thanksgiving Ruby Block Reward
+thanksgivingdiamondblock2019;Thanksgiving Diamond Block Reward
+thanksgiving2019done;Thanksgiving Quest Completion!
+v18sylveon;Sylveon Valentine
+v18ribombee;Ribombee Valentine
+v18smoochum;Smoochum Valentine
+v18luvdisc;Luvdisc Valentine
+v18chansey;Chansey Valentine
+v18bewear;Bewear Valentine
+rcvdayall2019;RC Valentine
+rcvalentine2020;RC Valentine Parcel
+vdaycandyheart2020;Candy Heart
+vdayhelditem2020;Valentine's Held Item Pack
+vdaycupidswings2020;Cupid's Wings
+vdaypokemonegg2020;Valentine's Pokemon Egg
+vdaylovearrow2020;Love Arrow
+vdaycupidsarrow2020;Cupid's Arrow
+vdayshinies2020;Valentine's Petals!
+vday2020flower;Flower Bush
+vday2020sushi;Piece of Sushi
+vday2020gem;Polished Gem
+vday2020witchpotion;Witch's Special Potion
+NestingDoll;Giant Wooden Pokeball
+NestingDoll2;Large Wooden Pokeball
+NestingDoll3;Wooden Pokeball
+NestingDoll4;Small Wooden Pokeball
+NestingDoll5;Tiny Wooden Pokeball
+NestingDoll6;Microscopic Wooden Pokeball
+GiftmasP1;Merry Christmas From P1!
+GiftmasP2;Merry Christmas From P2!
+GiftmasP3;Merry Christmas From P3!
+GiftmasP4;Merry Christmas From P4!
+GiftmasP5;Merry Christmas From P5!
+GiftmasP6;Merry Christmas From P6!
+Giftmasp7;Merry Christmas From P7!
+GiftmasP8;Merry Christmas From P8!
+GiftmasP9;Merry Christmas From P9!
+GiftmasP10;Merry Christmas From P10!
+GiftmasKanto;Merry Christmas From Kanto!
+GiftmasHoenn;Merry Christmas From Hoenn!
+Giftmasadmin;Merry Christmas From The RC Admin Team!
+GiftmasBox1;Size Converter Giftmas Present!
+GiftmasBox2;IV Converter Giftmas Present!
+GiftmasBox3;Breeding Giftmas Present!
+GiftmasBox4;RC Egg Giftmas Present!
+GiftmasBox5;Money Giftmas Present!
+GiftmasBox6;Candy Giftmas Present!
+GiftmasBox7;Special Converters Giftmas Present!
+GiftmasBox8;Boss Pokemon Giftmas Present!
+GiftmasBox9;Mystery Giftmas Present!
+GiftmasBox10;RCrate Giftmas Present!
+GiftmasFudge2;Giftmas Fudge
+GiftmasNovel2;Giftmas Novel
+Giftmasblums;Giftmas Blums!
+Giftmascard2;RC Gamers Giftmas Card!
+giftmaslovesong;Giftmas Love Song!
+giftmaspetbox;Giftmas Pet Box!
+Blizzgiftmasbundle;Blizz's Giftmas Bundle!
+Blizzsultimategamble;Blizz's Ultimate Gamble
+giftmascustompackage;Giftmas Custom Present!
+giftmasmystery;Giftmas Mystery Bundle!
+giftmasrcrate;Giftmas RCrate!
+giftmasultircrate;Giftmas Ultimate RCrate!
+giftmasultircrate5bundle;Giftmas Ultimate RCrate Bundle!
+giftmasrcrate5bundle;Giftmas RCrate 5 Pack!
+giftmasultircrate10bundle;Giftmas RCrate 10 Pack!
+giftmasultircrate15bundle;Giftmas RCrate 15 Pack!
+giftmasultircrate20bundle;Giftmas RCrate 20 Pack!
+giftmasrcrate10bundle;Giftmas RCrate 10 Pack!
+giftmasrcrate15bundle;Giftmas RCrate 15 Pack!
+giftmasrcrate20bundle;Giftmas RCrate 20 Pack!
+nestingdoll5pack;Nesting Doll 5 Pack!
+nestingdoll10pack;Nesting Doll 10 Pack!
+nestingdoll20pack;Nesting Doll 20 Pack!
+nestingdoll50pack;Nesting Doll 50 Pack!
+giftmasmisty;Misty's Giftmas Badge
+giftmasbrock;Brock's Giftmas Basge
+giftmasclarence;Clarence's Giftmas Present
+GiftmasArmor;Giftmas Armor
+GiftmasBox;
+GiftmasCard;Giftmas Card
+GiftmasCollectors;Giftmas Collector's Pokeball
+GiftmasFruitcake;Giftmas Fruitcake
+GiftmasFudge;Giftmas Fudge
+GiftmasGiftCard;Giftmas Gift Card
+GiftmasNovel;Giftmas Novel
+GiftmasScarf;Giftmas Scarf
+GiftmasSled;Giftmas Sled
+GiftmasSweater;Giftmas Sweater
+GiftmasVideoGame;Giftmas Video Game
+rcvalentineall2018;RC Valentine
+tms;TM/HM Crate
+rankbonus;Mystery Item
+relicband;Relic Band
+relicvase;Relic Vase
+bossparty;Mini Boss Party!
+bossparty2;Personal Boss Party!
+bossparty3;Large Boss Party!!!
+boss;Boss Spawn!
+megabossparty;Mega Boss Party!
+candy;Rare Candy Ticket!
+candy2;Rare Candy Box!
+candy3;King's Candy!
+moneybox;Old Coin
+moneybox2;Old Coin!
+moneybox25;Old Coin!!
+moneybox3;Old Coin!!!
+moneybox4;Treasure Chest
+gold;Gold Flake
+rcoinpouch;RCoin Pouch
+jobstokenpouch;Jobs Token Pouch
+missiongiftsummer;RC-Summer Mission Pack
+missiongiftfall;RC-Fall Mission Pack
+missiongiftwinter;RC-Winter Mission Pack
+missiongiftspring;RC-Spring Mission Pack
+egb;Blizz's Egg Beater
+egc;Blizz's Egg Cracker
+egb2;Super Charged Egg Beater
+egb3;Charged Egg Beater
+egb4;Drained Egg Beater
+egb5;Depleted Egg Beater
+Vita;Vitamin Elixir
+ivitem;IV Breeding Gift
+berrybush;Berry Bush
+breeder;Advanced Breeder
+breeder2;Breeding Tank
+NHitems;Held Item Pack
+plates;Random Plate
+megastones;Random Mega Stone
+randzcrystal;Random Z-Crystal
+randtypezcrystal;Random Type Z-Crystal
+randspecieszcrystal;Random Species Z-Crystal
+randmemorydrive;Random Memory Drive
+evo;Evolution Stone
+rdmevostone;Random Evolution Stone
+xpbox;EXP Bottle!
+vitaminpack;Vitamin Pack
+ranchpack;Ranch Pack
+mgift;Mystery Gift
+P2compensation;P2 Downtime Compensation
+P2compensation2;P2 Compensation
+silverwing;Silver Wing
+CatchDayDisguise;Catch of the day Disguise
+CollectorCatch;Collector's Catch Disguise
+votebattle;Voter's Battle Ball!
+personalhead;Head Shrinking Ceremony
+rainbowbomb;Rainbow Bomb!
+ranshrine;Random Shrine!
+OTgift;Original Trainer Reset
+timespace;Time Space Altar
+spawneggpack;RC Animal Crate
+randomlegend;Random Legendary!
+shinylegend2;Random Shiny Legendary!
+oldlegend;Low Tier Legendary!
+shinylegend;Random Shiny Legendary!
+newlegend;Random New Legendary!
+speed;Potion of Swiftness III
+haste;Potion of Haste
+Breedingpack;Breeding Pack!
+surveygift;Survey Gift!
+gymbuildcontest3;Build Contest Consolation Prize
+triviagift;RC Trivia Gift!
+CRApologyGift;Catch Rewards Apology Pack
+nitro;Nitro Gift
+artcontest;Art Contest Consolation Prize
+Tournamentgift2019;RC Tournament Gift!
+Tournamentparticipation2019;RC Tournament Participation Gift!
+Tournamentparticipation2020;RC Tournament Participation Gift!
+moneyboxthanksgiving;Cranberries!
+unknownartifact;Unknown Artifact!
+Megacratebundle;Mega Crate Bundle
+cratebundle;Pixelmon Crate Bundle
+fossilbundle;Fossil Crate Bundle
+bosspartybundle;Boss Party Bundle
+megabosspartybundle;Mega Party Bundle
+oldcoinbundle;Old Coin! Bundle
+advancedbreederbundle;Advanced Breeder Bundle
+xpbundle;EXP Bottle Bundle
+ivvitaminbundle;IV Vitamin Pack
+rcratebundle;RCrate Pack
+legendaryage1;Random Gen 1 Legendary!
+legendaryage2;Random Gen 2 Legendary!
+legendaryage3;Random Gen 3 Legendary!
+legendaryage4;Random Gen 4 Legendary!
+legendaryage5;Random Gen 5 Legendary!
+legendaryage6;Random Gen 6 Legendary!
+legendaryage7;Random Gen 7 Legendary!
+beastboy;Random Ultra Beast!
+normaltm;Random Normal TM
+grasstm;Random Grass TM
+firetm;Random Fire TM
+watertm;Random Water TM
+fightingtm;Random Fighting TM
+flyingtm;Random Flying TM
+poisontm;Random Poison TM
+groundtm;Random Ground TM
+rocktm;Random Rock TM
+bugtm;Random Bug TM
+ghosttm;Random Ghost TM
+electrictm;Random Electric TM
+psychictm;Random Psychic TM
+icetm;Random Ice TM
+dragontm;Random Dragon TM
+darktm;Random Dark TM
+steeltm;Random Steel TM
+randomtypetm;Random Type TM
+darkbreedenv;Dark-Type Breeding Environment
+dragonbreedenv;Dragon-Type Breeding Environment
+electricbreedenv;Electric-Type Breeding Environment
+normalbreedenv;Normal-Type Breeding Environment
+icebreedenv;Ice-Type Breeding Environment
+poisonbreedenv;Poison-Type Breeding Environment
+fairybreedenv;Fairy-Type Breeding Environment
+fightingbreedenv;Fighting-Type Breeding Environment
+firebreedenv;Fire-Type Breeding Environment
+flyingbreedenv;Flying-Type Breeding Environment
+ghostbreedenv;Ghost-Type Breeding Environment
+grassbreedenv;Grass-Type Breeding Environment
+groundbreedenv;Ground-Type Breeding Environment
+psychicbreedenv;Psychic-Type Breeding Environment
+rockbreedenv;Rock-Type Breeding Environment
+steelbreedenv;Steel-Type Breeding Environment
+waterbreedenv;Water-Type Breeding Environment
+bugbreedenv;Bug-Type Breeding Environment
+badtimebundle;Bad Time Bundle!
+featherbedbundle;Feather Bed Bundle!
+jackpotbundle;Jackpot Bundle!
+hackerbundle;Hacking the System Bundle!
+skiesbundle;Starry Skies Bundle!
+kittiesbundle;KITTIES Bundle!
+chinesebundle;Chinese New Year Bundle!
+boyfriendbundle;Boyfriend Bundle!
+girlfriendbundle;Girlfriend Bundle!
+harvestbundle;Harvest Time Bundle!
+ripbundle;R.I.P. Bundle!
+toppercentagebundle;Top Percentage Bundle!
+teamaquabundle;Team Aqua Bundle!
+teammagmabundle;Team Magma Bundle!
+cinnabarbundle;Cinnabar Special Bundle!
+approvalbundle;Seal of Approval Bundle!
+surfsupbundle;Surf’s Up Bundle!
+treeoflife;Tree of Life Bundle!
+elluchador;El Luchador Bundle!
+rocketman;Rocket Man Bundle!
+galacticbundle;Team Galactic Bundle!
+plasmabundle;Team Plasma Bundle!
+minerbundle;Miner's Bundle!
+hitech;Hi-Tech Breeder's Bundle!
+oldschool;Old-School Breeder's Bundle!
+smelterbundle;Smelter's Delight Bundle!
+kurtbundle;Kurt's Toolkit Bundle!
+macdonald;Old MacDonald's Bundle!
+catch25;Catch Rewards 25
+catch50;Catch Rewards 50
+catch100;Catch Rewards 100
+catch200;Catch Rewards 200
+catch300;Catch Rewards 300
+catch400;Catch Rewards 400
+catch600;Catch Rewards 600
+catch700;Catch Rewards 700
+catch800;Catch Rewards 800
+confettibomb;Confetti Bomb!
+confettibomb2;Confetti Bomb!
+catch5percent2;Catch Rewards 5%
+catch10percent2;Catch Rewards 10%
+catch20percent2;Catch Rewards 20%
+catch30percent2;Catch Rewards 30%
+catch40percent2;Catch Rewards 40%
+catch50percent2;Catch Rewards 50%
+catch60percent2;Catch Rewards 60%
+catch70percent2;Catch Rewards 70%
+catch80percent2;Catch Rewards 80%
+catch90percent2;Catch Rewards 90%
+catch95percent2;Catch Rewards 95%
+catch100percent2;Catch Rewards 100%
+shiny;Pixelmon Essence
+shinytotem;Pixelmon Ritual Stone
+nonshiny;Pixelmon Void!
+male;Gender Converter
+female;Gender Converter
+fconverter3pack;Gender Converter Pack!
+mconverter3pack;Gender Converter Pack!
+mfconverter3pack;Gender Converter Pack!
+sizee;Size Converter
+sizep;Size Converter
+sizeg;Size Converter
+sizem;Size Converter
+sizer;Random Size Converter
+sizeg2;Ginormous Converter
+sizem2;Microscopic Converter
+ivattack2;Unstable Attack IV Vitamin
+ivdefence2;Unstable Defense IV Vitamin
+ivspecialattack2;Unstable Special Attack IV Vitamin
+ivspecialdefence2;Unstable Special Defense IV Vitamin
+ivhp2;Unstable HP IV Vitamin
+ivspeed2;Unstable Speed IV Vitamin
+ivvitaminrandom2;Random Unstable IV Vitamin
+ivattack;Attack IV Vitamin
+ivdefence;Defense IV Vitamin
+ivspecialattack;Special Attack IV Vitamin
+ivspecialdefence;Special Defense IV Vitamin
+ivhp;HP IV Vitamin
+ivspeed;Speed IV Vitamin
+ivminusattack;Attack Minus IV Vitamin
+ivminusdefence;Defense Minus IV Vitamin
+ivminusspecialattack;Special Attack Minus IV Vitamin
+ivminusspecialdefence;Special Defense Minus IV Vitamin
+ivminushp;HP Minus IV Vitamin
+ivminusspeed;Speed IV Minus Vitamin
+ivvitaminrandom;Random IV Vitamin
+ivvitamin3pack;IV Vitamin 3 Pack
+iv31ATK;Attack IV Ultra Vitamin
+iv31DEF;Defence IV Ultra Vitamin
+iv31HP;HP IV Ultra Vitamin
+iv31SATK;Special Attack IV Ultra Vitamin
+iv31SDEF;Special Defence IV Ultra Vitamin
+iv31SPD;Speed IV Ultra Vitamin
+iv31ATK2;100% Attack IV Ultra Vitamin
+iv31DEF2;100% Defence IV Ultra Vitamin
+iv31HP2;100% HP IV Ultra Vitamin
+iv31SATK2;100% Special Attack IV Ultra Vitamin
+iv31SDEF2;100% Special Defence IV Ultra Vitamin
+iv31SPD2;100% Speed IV Ultra Vitamin
+randultra;Random Ultra Vitamin
+ultimateconverter;Ultimate Converter!
+gladiatorconv;Gladiator Converter!
+sumoconverter;Sumo Converter!
+mysteryvitamin;Extreme Mystery Vitamin
+RandNature;Nature Randomizer
+randnaturepack3;Nature Randomizer 3 Pack
+RandNature2;Aggressive Nature Converter
+RandNature3;Defensive Nature Converter
+ballconv;Ball Converter
+ballconv3pack;Ball Converter 3 Pack
+evhpdown;HP Blarry!
+evattackdown;Attack Blarry!
+evdefencedown;Defense Blarry!
+evspecialattackdown;Special Attack Blarry!
+evspecialdefencedown;Special Defense Blarry!
+evspeeddown;Speed Blarry!
+randomblarry;Random Blarry
+abilityha;Ability Seeker
+abilityha2;Ability Quantum Enabler
+easterspoonrace2020;Easter Spoon-and-Egg Race!
+easterbunny2020;Easter Bunny!
+easterhide2020;RC Easter Egg
+easteregg2020;RC Easter Egg!
+springhelditems;Spring Held Item Pack
+easter2020exeggcute;Exeggcute Egg
+eggbasket20201;Egg Basket Tier 1!
+eggbasket20202;Egg Basket Tier 2!
+eggbasket20203;Egg Basket Tier 3!
+goldegg2020;Golden Egg
+eggbasketgift2020;Egg Basket Random Gift!
+easter2020strengthlevel1;Strength Test - Level 1
+easter2020strengthlevel2;Strength Test - Level 2
+easter2020strengthlevel3;Strength Test - Level 3
+easter2020strengthlevel4;Strength Test - Level 4
+easter2020strengthlevel5;Strength Test - Level 5
+easter2020strengthlevel6;Strength Test - Level 6
+easter2020strengthlevel7;Strength Test - Level 7
+easter2020strengthlevel8;Strength Test- Level 8
+easter2020strengthlevel9;Strength Test- Level 9
+easter2020strengthlevel10;Strength Test- Level 10
+easter2020strengthbonuslevel1;Strength Test- Bonus Level 1
+easter2020strengthbonuslevel2;Strength Test- Bonus Level 2
+easter2020strengthbonuslevel3;Strength Test- Bonus Level 3
+easter2020strengthbonuslevel4;Strength Test- Bonus Level 4
+ducktoken;Ducklett Roundup Tokens
+ducktokenpouch;duck token pouch
+togepitheater2020;Togepi Theater
+PokemonEgg;RC Pixelmon
+FossilEgg;RC Fossilized Egg
+rcegg3pack;RC Pixelmon Egg 3 Pack!
+fossilegg3pack;RC Fossilized Egg 3 Pack!
+rceggpack;RC Egg Pack!
+farmegg;Random Farm Animal Spawn Egg
+exoticegg;Random Exotic Animal Spawn Egg
+NormalEgg;Normal Type Egg
+GrassEgg;Grass Type Egg
+FireEgg;Fire Type Egg
+WaterEgg;Water Type Egg
+FightingEgg;Fighting Type Egg
+FlyingEgg;Flying Type Egg
+PoisonEgg;Poison Type Egg
+GroundEgg;Ground Type Egg
+RockEgg;Rock Type Egg
+BugEgg;Bug Type Egg
+GhostEgg;Ghost Type Egg
+ElectricEgg;Electric Type Egg
+PsychicEgg;Psychic Type Egg
+IceEgg;Ice Type Egg
+DragonEgg;Dragon Type Egg
+DarkEgg;Dark Type Egg
+SteelEgg;Steel Type Egg
+FairyEgg;Fairy Type Egg
+RandomTypeEgg;Random Type Egg
+battlerdyspeed;Random Battle-Ready Pokemon! [SPEED]
+battlerdyoffense;Random Battle-Ready Pokemon! [OFFENSE]
+battlerdytank;Random Battle-Ready Pokemon! [TANK]
+fallmissionpodzol;Podzol Mission Reward
+fallmissionacacialogs;Acacia Logs Mission Reward
+fallmissionmossycobble;Mossy Cobble Mission Reward
+fallmissionhaybales;Haybales Mission Reward
+fallmissionbrownmushroom;Brown Mushrooms Mission Reward
+fallmissionbeetroot;Beetroot Mission Reward
+fallmissiongunpowder;Gunpowder Mission Reward
+fallmissionghasttear;Ghast Tears Mission Reward
+fallmissionredstone;Redstone Mission Reward
+fallmissiondarkiniumz;Darkinium Z-Crystal Mission Reward
+fallmissionspookyplate;Spooky Plate Mission Reward
+fallmissionpsychicgem;Psychic Gem Mission Reward
+fallmissiondarkpulse;TM164: Dark Pulse Mission Reward
+fallmissionshadowball;TM30: Shadow Ball Mission Reward
+fallmissiontm0;TM-0 Mission Reward
+fallmissionoddincense;Odd Incense Mission Reward
+fallmissionfogbadge;Fog Badge Mission Reward
+fallmissionforestbadge;Forest Badge Mission Reward
+fallmissionpowerherb;Power Herb Mission Reward
+fallmissionthickclub;Thick Club Mission Reward
+fallmissionleftovers;Leftovers Mission Reward
+fallmissionpoisonouspotatoes;Poisonus Potatoes Mission Reward
+fallmissiongoldapples;Golden Apple Mission Reward
+fallmissionranchupgrade;Ranch Upgrade Mission Reward
+fallmissionstaticshrine;Static Shrine Mission Reward
+fallmissionrarecandy;Rare Candy Mission Reward
+fallmissionreliccrown;Relic Crown Mission Reward
+EasterEgg;Easter
+MdayRose;Mother's Day
+FathersDay;Father's Day
+rdmspechaunt;Spectral Haunter Key
+20174thGift;4th
+4thGift;4th
+CincoMixtape;Mariachi Mix Tape
+CincoShawl;Cinco Shawl
+MdayRose2017;Mother's Day
+rcvalentineall;RC Valentine
+hallowultima16;Hall
+drinkcrate;Drink Crate!
+headdecor;Head Decor Pack!
+healthpack;Pixelmon Health Pack!
+mewsicsheet;Mewsic Sheet!
+tacklebox;Tackle Box!
+thankarmor;Thanksgiving Armor!
+thankchicken;Chicken Stuffed with Gifts!
+ThanksgivingPack;Happy Thanksgiving!
+sliceturkey;Slice of Turkey!
+wishbone;The Wishbone!
+TrailerContest;Trailer Contest Consolation Prize
+GymBuildContest;Build Contest Consolation Prize
+BuildContest;
+Tourney16;Tournament Prize
+Tourney4;Tournament Prize
+item1;#1 Black Belt!
+item10;#10 White Belt!
+item11;Season 1 Consolation Prize!
+item2;#2 Brown Belt!
+item3;#3 Red Belt!
+item4;#4 Purple Belt!
+item5;#5 Blue Belt!
+item6;#6 Green Belt!
+item7;#7 Orange Belt!
+item8;#8 Yellow Belt!
+item9;#9 Striped Belt!
+pokemonday2020;Happy Pokemon Day!
+photopackgyms1;Photo Pack
+AxeLegend3;Axe Legend
+PickLegend3;Pick Legend
+ShovelLegend3;Shovel Legend
+axe;Axe
+paxe;Pickaxe
+shovel;Shovel
+photopackShovel;Photo Pack
+photopackPickaxe;Photo Pack
+photopackAxe;Photo Pack
+photopackFishing;Photo Pack
+winterjobstoken;₰
+ballgift;Pokeball Gift
+kitmonthlygamer;Gamer
+kitmonthlyAdventurer;Adventurer
+kitmonthlyChallenger;Challenger
+kitmonthlyPokemaster;Pokemaster Monthly Gift!
+kitmonthlyProdigy;Prodigy
+kitmonthlysensei;Sensei
+kitmonthlyprofessor;Professor
+kitmonthlyelite;Elite
+kitmonthlylegendary;Legendary
+kitmonthlydeity;Deity Monthly Gift!
+kitmonthlylimitless;Limitless
+kitmonthlyviptrainer;Vip Trainer
+kitmonthlyvipplus;VIP+
+kitmonthlytestmod;Test-Moderator Monthly Gift!
+kitmonthlymod;Moderator Monthly Gift!
+kitmonthlyheadmod;Head Moderator Monthly Gift!
+kitmonthlygamer1;Gamer
+kitmonthlyAdventurer1;Adventurer
+kitmonthlyChallenger1;Challenger
+kitmonthlyPokemaster1;Pokemaster Monthly Gift!
+kitmonthlyProdigy1;Prodigy
+kitmonthlysensei1;Sensei
+kitmonthlyprofessor1;Professor
+kitmonthlyelite1;Elite
+kitmonthlylegendary1;Legendary
+kitmonthlydeity1;Deity Monthly Gift!
+kitmonthlylimitless1;Limitless
+kitmonthlyvipplus1;VIP+
+kitmonthlytestmod1;Test-Moderator Monthly Gift!
+kitmonthlymod1;Moderator Monthly Gift!
+kitmonthlyheadmod1;Head Moderator Monthly Gift!
+kitmonthlyinfluencer;Influencer
+kitmonthlyinfluencerplus;VIP+
+kitWeeklygamer1;Gamer
+kitWeeklyAdventurer1;Adventurer
+kitWeeklyChallenger1;Challenger
+kitWeeklyPokemaster1;Pokemaster Weekly Gift!
+kitWeeklyProdigy1;Prodigy
+kitWeeklysensei1;Sensei
+kitWeeklyprofessor1;Professor
+kitWeeklyelite1;Elite
+kitWeeklylegendary1;Legendary
+kitWeeklydeity1;Deity Weekly Gift!
+kitWeeklylimitless1;Limitless
+kitweeklyvipgamer1;VIP Gamer
+kitweeklyvipAdventurer1;VIP Adventurer
+kitweeklyvipChallenger1;VIP Challenger
+kitweeklyvipPokemaster1;VIP Pokemaster Weekly Gift!
+kitweeklyvipProdigy1;VIP Prodigy
+kitweeklyvipsensei1;VIP Sensei
+kitweeklyvipprofessor1;VIP Professor
+kitweeklyvipelite1;VIP Elite
+kitweeklyviplegendary1;VIP Legendary
+kitweeklyvipdeity1;VIP Deity Weekly Gift!
+kitweeklyviplimitless1;VIP Limitless
+kitweeklyvipplus1;VIP+
+kitweeklyinfluencer;Influencer
+kitweeklyinfluencerplus;Influencer+
+basewin1000;Base win 1000!
+basewin1100;Base win 1100!
+basewin1200;Base win 1200!
+basewin1300;Base win 1300!
+basewin1400;Base win 1400!
+basewin1500;Base win 1500!
+basewin1600;Base win 1600!
+basewin1700;Base win 1700!
+basewin1800;Base win 1800!
+basewin1900;Base win 1900!
+basewin2000;Base win 2000!
+basewin2100;Base win 2100!
+basewin2200;Base win 2200!
+basewin2300;Base win 2300!
+basewin2400;Base win 2400!
+basewin2500;Base win 2500!
+basewin2600;Base win 2600!
+basewin2700;Base win 2700!
+basewin2800;Base win 2800!
+basewin2900;Base win 2900!
+basewin3000;Base win 3000!
+firstwin1000;First win 1000!
+firstwin1100;First win 1100!
+firstwin1200;First win 1200!
+firstwin1300;First win 1300!
+firstwin1400;First win 1400!
+firstwin1500;First win 1500!
+firstwin1600;First win 1600!
+firstwin1700;First win 1700!
+firstwin1800;First win 1800!
+firstwin1900;First win 1900!
+firstwin2000;First win 2000!
+firstwin2100;First win 2100!
+firstwin2200;First win 2200!
+firstwin2300;First win 2300!
+firstwin2400;First win 2400!
+firstwin2500;First win 2500!
+firstwin2600;First win 2600!
+firstwin2700;First win 2700!
+firstwin2800;First win 2800!
+firstwin2900;First win 2900!
+firstwin3000;First win 3000!
+boostedwin1000;Boosted Win 1000!
+boostedwin1100;Boosted Win 1100!
+boostedwin1200;Boosted Win 1200!
+boostedwin1300;Boosted Win 1300!
+boostedwin1400;Boosted Win 1400!
+boostedwin1500;Boosted Win 1500!
+boostedwin1600;Boosted Win 1600!
+boostedwin1700;Boosted Win 1700!
+boostedwin1800;Boosted Win 1800!
+boostedwin1900;Boosted Win 1900!
+boostedwin2000;Boosted Win 2000!
+boostedwin2100;Boosted Win 2100!
+boostedwin2200;Boosted Win 2200!
+boostedwin2300;Boosted Win 2300!
+boostedwin2400;Boosted Win 2400!
+boostedwin2500;Boosted Win 2500!
+boostedwin2600;Boosted Win 2600!
+boostedwin2700;Boosted Win 2700!
+boostedwin2800;Boosted Win 2800!
+boostedwin2900;Boosted Win 2900!
+boostedwin3000;Boosted Win 3000!
+boostedfirstwin1000;Boosted First Win 1000!
+boostedfirstwin1100;Boosted First Win 1100!
+boostedfirstwin1200;Boosted First Win 1200!
+boostedfirstwin1300;Boosted First Win 1300!
+boostedfirstwin1400;Boosted First Win 1400!
+boostedfirstwin1500;Boosted First Win 1500!
+boostedfirstwin1600;Boosted First Win 1600!
+boostedfirstwin1700;Boosted First Win 1700!
+boostedfirstwin1800;Boosted First Win 1800!
+boostedfirstwin1900;Boosted First Win 1900!
+boostedfirstwin2000;Boosted First Win 2000!
+boostedfirstwin2100;Boosted First Win 2100!
+boostedfirstwin2200;Boosted First Win 2200!
+boostedfirstwin2300;Boosted First Win 2300!
+boostedfirstwin2400;Boosted First Win 2400!
+boostedfirstwin2500;Boosted First Win 2500!
+boostedfirstwin2600;Boosted First Win 2600!
+boostedfirstwin2700;Boosted First Win 2700!
+boostedfirstwin2800;Boosted First Win 2800!
+boostedfirstwin2900;Boosted First Win 2900!
+boostedfirstwin3000;Boosted First Win 3000!
+baseloss1000;Base Loss 1000!
+baseloss1100;Base Loss 1100!
+baseloss1200;Base Loss 1200!
+baseloss1300;Base Loss 1300!
+baseloss1400;Base Loss 1400!
+baseloss1500;Base Loss 1500!
+baseloss1600;Base Loss 1600!
+baseloss1700;Base Loss 1700!
+baseloss1800;Base Loss 1800!
+baseloss1900;Base Loss 1900!
+baseloss2000;Base Loss 2000!
+baseloss2100;Base Loss 2100!
+baseloss2200;Base Loss 2200!
+baseloss2300;Base Loss 2300!
+baseloss2400;Base Loss 2400!
+baseloss2500;Base Loss 2500!
+baseloss2600;Base Loss 2600!
+baseloss2700;Base Loss 2700!
+baseloss2800;Base Loss 2800!
+baseloss2900;Base Loss 2900!
+baseloss3000;Base Loss 3000!
+boostedloss1000;Boosted Loss 1000!
+boostedloss1100;Boosted Loss 1100!
+boostedloss1200;Boosted Loss 1200!
+boostedloss1300;Boosted Loss 1300!
+boostedloss1400;Boosted Loss 1400!
+boostedloss1500;Boosted Loss 1500!
+boostedloss1600;Boosted Loss 1600!
+boostedloss1700;Boosted Loss 1700!
+boostedloss1800;Boosted Loss 1800!
+boostedloss1900;Boosted Loss 1900!
+boostedloss2000;Boosted Loss 2000!
+boostedloss2100;Boosted Loss 2100!
+boostedloss2200;Boosted Loss 2200!
+boostedloss2300;Boosted Loss 2300!
+boostedloss2400;Boosted Loss 2400!
+boostedloss2500;Boosted Loss 2500!
+boostedloss2600;Boosted Loss 2600!
+boostedloss2700;Boosted Loss 2700!
+boostedloss2800;Boosted Loss 2800!
+boostedloss2900;Boosted Loss 2900!
+boostedloss3000;Boosted Loss 3000!
+E4Prize;Elite Four Champion's Prize!
+E4Badges;Elite Four Badge Pack
+E4Prize2;Elite Four Succession Prize!
+E4Prize;Elite Four Champion's Prize!
+E4Badges;Elite Four Badge Pack
+E4Prize2;Elite Four Succession Prize!
+photopackspawn;Photo Pack
+gemrain;Gem Rain
+springmissionlimewool;Lime Wool Mission Reward
+springmissionbirchlogs;Birch Logs Mission Reward
+springmissionpokegrass;Poke Grass Mission Reward
+springmissionflowerpot;Flower Pot Mission Reward
+springmissionmossycobblewall;Mossy Cobblestone Wall Mission Reward
+springmissionfern;Fern Mission Reward
+springmissionrabbitfoot;Rabbit's Foot Mission Reward
+springmissionlapis;Lapis Mission Reward
+springmissionbuginiumz;Buginium-Z Mission Reward
+springmissionmeadowplate;Meadow Plate Mission Reward
+springmissionbuggem;Bug Gem Mission Reward
+springmissionenergyball;TM53: Energy Ball Mission Reward
+springmissiongrassknot;TM86: Grass Knot Mission Reward
+springmissiongrassmemory;Grass Memory Mission Reward
+springmissiondousedrive;Douse Drive Mission Reward
+springmissioncascadebadge;Cascade Badge Mission Reward
+springmissionplantbadge;Plant Badge Mission Reward
+springmissionabsorbbulb;Absorb Bulb Mission Reward
+springmissionmiracleseed;Miracle Seed Mission Reward
+springmissiondamprock;Damp Rock Mission Reward
+springmissioneggbeater;Blizz's Egg Beater Mission Reward
+springmissionwaterstoneore;Water Stone Ore Mission Reward
+springmissionslowpoketail;Slowpoke Tail Mission Reward
+springmissiontotemofundying;Totem of Undying Mission Reward
+springmissionbeacon;Beacon Mission Reward
+springmissionrelicvase;Relic Vase Mission Reward
+tmran;TM-0 Random
+tmpack3;TM-0 3 Pack
+tmpack5;TM-0 5 Pack
+tmpack10;TM-0 10 Pack
+tmpack20;TM-0 20 Pack
+tmx;TM-X
+wintermissiondiorite;Diorite Mission Reward
+wintermissionredwool;Red Wool Mission Reward
+wintermissionsprucelogs;Spruce Logs Mission Reward
+wintermissionice;Ice Mission Reward
+wintermissionrawsalmon;Raw Salmon Mission Reward
+wintermissionsnowlayer;Snow Layer Mission Reward
+wintermissionmilkbucket;Milk Bucket Mission Reward
+wintermissioncookies;Cookies Mission Reward
+wintermissioncoal;Coal Mission Reward
+wintermissioniciumz;Icium Z-Crystal Mission Reward
+wintermissionicicleplate;Icicle Plate Mission Reward
+wintermissionicegem;Ice Gem Mission Reward
+wintermissionicebeam;TM13: Ice Beam Mission Reward
+wintermissionblizzard;TM14: Blizzard Mission Reward
+wintermissionicememory;Ice Memory Mission Reward
+wintermissionchilldrive;Chill Drive Mission Reward
+wintermissionglacierbadge;Glacier Badge Mission Reward
+wintermissionfreezebadge;Freeze Badge Mission Reward
+wintermissionsnowball;Snowball Mission Reward
+wintermissionnevermeltice;Never-Melt Ice Mission Reward
+wintermissionicyrock;Icy Rock Mission Reward
+wintermissionpolarbears;Spawn Polar Bear Mission Reward
+wintermissioncrystalore;Crystal Ore Mission Reward
+wintermissioncometshard;Comet Shard Mission Reward
+wintermissionfrozenorb;Full Frozen Orb Mission Reward
+wintermissionfrozenshrine;Frozen Shrines Mission Reward
+wintermissionrelicband;Relic Band Mission Reward
+btl;Mysterious Ball
+btl2;Ancient Mysterious Ball
+btl3;Futuristic Mysterious Ball
+randommballgen;Random Mysterious Generation Ball
+rdmshiny;Random Shiny!
+rdmshiny2;Random Shiny
+rdmshiny3;Random Shiny!
+rdmshiny4;Random Shiny!!
+rdmshiny5;Random Shiny!!!
+backpack17;Backpack
+btsgift17;Back to School Lunchbox
+piggybank17;Piggy Bank
+CNYarmor;Ceremonial Armor!
+CNYgong;The Gong of Change!
+CNYfan;Rigid Fan
+CNYlantern;Sky Lantern
+CNYenvelope;Red Envelope
+CNYknot;Chinese Knot
+CNYrice;Sweet Rice Ball
+CNYricepiece;The Rice!
+CNYgoldpiece;Gold Piece
+CNYpig;Swee
+CNYrat;Premium Rat Food
+CNYsnake;Snake's Venom
+CNYox;Ox's Left Horn
+CNYtiger;Tiger's Leftovers
+CNYdragon;Ancient Dragon Scale
+CNYhorse;Horse's Dinner
+CNYgoat;Pasturized Goat's Milk
+CNYmonkey;Monkey's Stolen Hat
+CNYrooster;Rooster's Feather
+CNYdog;Dog's Chew Toy
+EssencePig;The Power of the Pig!
+EssenceRat;The Power of the Rat!
+Essenceox;The Power of the Ox!
+EssenceTiger;The Power of the Tiger!
+EssenceRabbit;The Power of the Rabbit!
+EssenceDragon;The Power of the Dragon!
+EssenceSnake;The Power of the Snake!
+EssenceHorse;The Power of the Horse!
+EssenceGoat;The Power of the Goat!
+Essencemonkey;The Power of the Monkey!
+EssenceRooster;The Power of the Rooster!
+EssenceDog;The Power of the Dog!
+Essencerandom;The Power of the Zodiac!
+redbanner;Red Banner!
+goldbanner;Gold Banner!
+CNYluckycarrot;Lucky Carrot!
+CNYluckyfeather;Lucky Feather!
+CNYtigerfang;Fang of the Tiger!
+CNYtigerclaw;Claw of the Tiger!
+CNYtigereye;Eye of the Tiger!
+CNYrocky;Rock Trap!
+CNYcity;City Power Core!
+CNYbrie;Essence of the Breeze!
+CNYleap;Stone of Lightning!
+CNYghost;Ghost Detector!
+aipomgift;The Great Tree's Fruit
+FathersDay2017;Father's Day
+julygunpowder;Gunpowder Reward
+julypaper;Paper Reward
+julyredfolding;Red Folding Chair Reward
+julywhitefolding;White Folding Chair Reward
+julybluefolding;Blue Folding Chair Reward
+julychicken;Chicken Reward
+julybeef;Beef Reward
+julyporkchop;Porkchop Reward
+julylemonade;Lemonade Reward
+julysodapop;Soda Pop Reward
+julydaily;Daily Firework Explosion
+julyendgift;RC Summer Gift!
+J4lemonade2019;Lemonade Stand!
+J4LibertyBell2019;Liberty Bell!
+J4Declaration2019;Declaration of Independence!
+J4Fireworks2019;Summer Fireworks!
+J4FireflyJar2019;Fire Fly Jar!
+J4ModGift2019;We Love Our Mods!
+J4shiny2019;Sparklers
+J4shinytotem2019;Super Sparklers
+J4nonshiny2019;Dull Sparklers!
+J4canada2019;O'Canada!
+j4romancandle;Roman Candles
+j4romancandle2;Roman Candles
+j4romancandle3;Roman Candles
+j4romancandle4;Roman Candles
+j4romancandle5;Roman Candles
+j4romancandle6;Roman Candles
+moneybox420;Golden Snacks!
+420gift2019;420 Leaf
+moneyboxfoolsday;Fools Gold!
+foolsday2019;RC Fools Day Box
+School2019;Back to School Gift!
+giftmas2018NestingDoll;Giant Wooden Pokeball
+giftmas2018NestingDoll2;Large Wooden Pokeball
+giftmas2018NestingDoll3;Wooden Pokeball
+giftmas2018NestingDoll4;Small Wooden Pokeball
+giftmas2018NestingDoll5;Tiny Wooden Pokeball
+giftmas2018NestingDoll6;Microscopic Wooden Pokeball
+giftmas2018fudge2;Giftmas Fudge
+giftmas2018novel2;Giftmas Novel
+giftmas2018blums;Giftmas Blums!
+giftmas2018card2;RC Gamers Giftmas Card!
+giftmas2018lovesong;Giftmas Love Song!
+giftmas2018petbox;Giftmas Pet Box!
+snowballfight;Snow, Snow everywhere!!!
+Blizzgiftmas2018bundle;Blizz's Giftmas Bundle!
+Blizzsultimategamble2018;Blizz's Ultimate Gamble
+giftmas2018custompackage;Giftmas Custom Present!
+giftmas2018mystery;Giftmas Mystery Bundle!
+giftmas2018GiftCard;Giftmas Gift Card
+giftmas2018videoGame;Giftmas Video Game
+giftmas2018apparel;Giftmas Apparel
+giftmas2018nice;Santa's Nice List
+giftmas2018naughty;Santa's Naughty List
+giftmas2018checkList;Santa's Checklist
+giftmas2018star;Christmas Star
+giftmas2018box1;Size Converter Giftmas Present!
+giftmas2018box2;IV Converter Giftmas Present!
+giftmas2018box3;Breeding Giftmas Present!
+giftmas2018box4;RC Egg Giftmas Present!
+giftmas2018box5;Money Giftmas Present!
+giftmas2018box6;Candy Giftmas Present!
+giftmas2018box7;Special Converters Giftmas Present!
+giftmas2018box8;Boss Pokemon Giftmas Present!
+giftmas2018box9;Mystery Giftmas Present!
+giftmas2018box10;RCrate Giftmas Present!
+giftmas2018ultimatepresent;Giftmas Ultimate Present!
+giftmas2018adminbrie;Merry Christmas From The RC Admin Team!
+giftmas2018adminloth;Merry Christmas From The RC Admin Team!
+giftmas2018adminblizz;Merry Christmas From The RC Admin Team!
+giftmas2018modgift;Merry Christmas Our Beloved Staff!!
+leftoversgift;Leftover Turkey
+pairofsocksgift;Pair of Socks
+abomasnowbranch;Abomasnow Branches
+bouncergift;Bouncer's Belt
+bodyguard1gift;Bodyguard's Glasses
+bodyguard2gift;Bodyguard's Chestplate
+bossgift;Boss's VIP Card Pass
+cubchoogift;Cubchoo's Tears
+delibirdgift;Delibird's Imprisonment Contraption
+santagift;Delibird Gift
+giftmas2019checkList;Santa's Checklist
+giftmas2019nice;Santa's Nice List
+giftmas2019naughty;Santa's Naughty List
+giftmas2019giftmaslights;Giftmas Lights
+giftmas2019reindeerfood;Reindeer Food
+giftmas2019icestone;Ice Stone
+giftmas2019reindeerpoop;Reindeer Poop
+giftmas2019stockingstuffer;Stocking Stuffer
+giftmas2019chocolatecoins;Chocolate Coins!
+giftmas2019hotcocoa;Cup of Hot Chocolate!
+giftmas2019marshmallow;Giftmas Marshmallows
+giftmas2019snowflake;Winter Snowflake!
+giftmas2019sugarplums;Sugar Plums
+giftmas2019miracle;Giftmas Miracle
+giftmas2019giftoflife;Gift of Life
+giftmas2019novel;Giftmas Novel
+giftmas2019GiftCard;Giftmas Gift Card
+giftmas2019mystery;Giftmas Mystery Bundle!
+giftmas2019custompackage;Giftmas Custom Present!
+Blizzsultimategamble2019;Blizz's Ultimate Gamble
+giftmas2019battles;Giftmas Present
+adventday1;Giftmas Day 1 Gift IMM
+adventday2;Giftmas Day 2 Gift IMM
+adventday3;Giftmas Day 3 Gift IMM
+adventday4;Giftmas Day 4 Gift IMM
+adventday5;Giftmas Day 5 Gift IMM
+adventday6;Giftmas Day 6 Gift IMM
+adventday7;Giftmas Day 7 Gift IMM
+adventday8;Giftmas Day 8 Gift IMM
+adventday9;Giftmas Day 9 Gift IMM
+adventday10;Giftmas Day 10 Gift IMM
+adventday11;Giftmas Day 11 Gift IMM
+adventday12;Giftmas Day 12 Gift IMM
+adventday13;Giftmas Day 13 Gift IMM
+adventday14;Giftmas Day 14 Gift IMM
+adventday15;Giftmas Day 15 Gift IMM
+adventday16;Giftmas Day 16 Gift IMM
+adventday17;Giftmas Day 17 Gift IMM
+adventday18;Giftmas Day 18 Gift IMM
+adventday19;Giftmas Day 19 Gift IMM
+adventday20;Giftmas Day 20 Gift IMM
+adventday21;Giftmas Day 21 Gift IMM
+adventday22;Giftmas Day 22 Gift IMM
+adventday23;Giftmas Day 23 Gift IMM
+adventday24;Giftmas Day 24 Gift IMM
+adventday25;Giftmas Day 25 Giftmas Present

@@ -7,9 +7,9 @@ TODO
 - Import group of files
 """
 dict = {}
-with open("Test Files/gifts.conf", "r") as File1:
+with open("Test Files/gifts.conf", "r", encoding='utf-8') as File1:
     file_contents=File1.read().split(sep="\n")
-with open("Test Files/dict.txt", "r") as File2:
+with open("Test Files/dict.txt", "r", encoding='utf-8') as File2:
     lines = File2.read().split("\n")
 for line in lines:
     elem = line.split(";")
@@ -191,14 +191,10 @@ for u in range(len(individual)):
     # with open("Test Files/dict.txt", "a") as dictionary:
     #     dictionary.write(f'{internal_name};{display_name.split("&")[1][1:-1]}\n')
     with open("output.txt", "a") as output:
-        output.write(f'\n\n### {display_name.split("&")[1][1:-1]}\n\n'
+        output.write(f'\n\n### {internal_name}\n\n'
                      f'<details>\n'
                      f'<summary>Gift Details:</summary>\n'
-                     f'Internal Name: {internal_name}\n\n'
-                     f'Gift Icon: ` {icon} `\n\n'
-                     f'#### Lores: \n\n')
-        for lore in lores:
-            output.write(f"{lore}\n\n")
+                     f'Internal Name: {internal_name}\n\n')
         output.write(f"<details>"
                      f"<summary>Gift Contents:</summary>")
         for i in range(pools):
